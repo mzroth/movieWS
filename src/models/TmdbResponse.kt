@@ -1,4 +1,4 @@
-package com.mzroth
+package com.mzroth.models
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 
